@@ -11,7 +11,7 @@ Este repositório contém uma aplicação Windows Forms desenvolvida em C# que p
 ## Tecnologias Utilizadas
 
 - C#
-- Windows Forms
+- Windows Forms.
 
 ## Pré-requisitos
 
